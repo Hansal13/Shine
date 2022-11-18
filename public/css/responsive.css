@@ -1,0 +1,98 @@
+/* responsive css */
+
+@media screen and (max-width: 767px) {
+  .order {
+    order: -1;
+  }
+  .welcome-left-content h3 {
+    margin: 20px 0;
+  }
+  .challenge-left-content h1 {
+    margin: 20px 0;
+  }
+  .secret-cont-inner-right {
+    margin: 0;
+  }
+  .inroduction-sec-content p {
+    padding: 0 10%;
+  }
+  .benner-content-main {
+    padding: 10% 5%;
+    margin: 0 5%;
+  }
+  .benner-content-inner p {
+    padding: 0;
+  }
+  .help-section-right img {
+    display: none;
+  }
+  .convinced-sec .email-me-btn {
+    font-size: 20px;
+  }
+  .ready-now-btn {
+    font-size: 20px;
+  }
+  .program-sec-btn {
+    font-size: 20px;
+  }
+  .bonus .bonus-btn {
+    font-size: 20px;
+  }
+  .benner-content-inner .sign-me-up-btn {
+    font-size: 20px;
+  }
+  .benner-content-inner h1 {
+    padding: 0;
+  }
+  .welcome-sec {
+    padding: 50px 0;
+  }
+  .pain-point {
+    padding: 10px 0;
+  }
+  .module {
+    margin: 20px 0;
+  }
+  .committing-cont-main-right {
+    margin: 10% 0 5% 0%;
+  }
+  .help-section-center {
+    margin: 15% 0% 0 0;
+  }
+  .help-section-right {
+    margin: 0 0 0 0;
+  }
+  .result-question {
+    margin: 10px 0;
+  }
+  .bonus-left-main {
+    margin: 0;
+  }
+  .secret-cont-main-right {
+    margin: 20px 0 0 0px;
+  }
+  .module-sec-heading-main {
+    margin: 30px 0;
+  }
+  .control-right-text h1 {
+    margin: 20px 0 0;
+  }
+  .short-sec {
+    padding: 10%;
+  }
+  .intro-image {
+    margin-top: 20px;
+  }
+  .intoduction-sec {
+    padding: 100px 0 100px 0;
+  }
+  .goal-sec {
+    margin: 0px 0;
+  }
+  .result-question .yes-right-now-btn {
+    margin: 0 0 30px 0;
+  }
+  .wish-section {
+    margin: 10px 0;
+  }
+}
